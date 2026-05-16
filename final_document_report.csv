@@ -1,0 +1,10 @@
+Category,Details
+Total Words,518
+Top Keywords,"['age', 'approximate', 'bmi', 'body', 'chart', 'children', 'cm', 'different', 'essential', 'frame']"
+Named Entities,"['Adults', 'Average Height And Weight Chart By Age In India  \nUnderstanding', 'Age Weight  Length', 'Please', 'Categorised', 'Considered', 'Comprehensive Guide To Health And \nGrowth  \nIn India', 'Children', 'Growing With Horlicks  \nHorlicks', 'Its']"
+Sentiment,"{'neg': 0.009, 'neu': 0.857, 'pos': 0.133, 'compound': 0.9989}"
+Titles,"['Indian Height -Weight Chart According To Age: A Comprehensive Guide To Health And', 'Growth And Development In Different Age Groups', 'Adults’ Average Height And Weight Chart By Age In India']"
+Captions,[]
+Tables Extracted,4
+Images Extracted,3
+References,[]
